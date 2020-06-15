@@ -1,0 +1,95 @@
+﻿  DirectedGraph.cpp
+  Task3.cpp
+D:\6\C++\Task3\Task3\Task3.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(82,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(100,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(195,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(202,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(204,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(268,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(275,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Task3.cpp(277,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\DirectedGraph.h(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\DirectedGraph.h(43): message : во время компиляции функции-члена класс шаблон "DirectedGraph<int>::~DirectedGraph(void)"
+D:\6\C++\Task3\Task3\Task3.cpp(387): message : выполняется компиляция ссылки на экземпляр шаблон функции "DirectedGraph<int>::~DirectedGraph(void)"
+D:\6\C++\Task3\Task3\Task3.cpp(109): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DirectedGraph<int>"
+D:\6\C++\Task3\Task3\DirectedGraph.h(185,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\DirectedGraph.h(174): message : во время компиляции функции-члена класс шаблон "void DirectedGraph<int>::removeVertex(T2 *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\Task3.cpp(118): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DirectedGraph<int>::removeVertex(T2 *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(190,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Vertex.h(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Vertex.h(87): message : во время компиляции функции-члена класс шаблон "void Vertex<T2 *>::removeOut(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(182): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vertex<T2 *>::removeOut(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(46): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vertex<T2 *>"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(43): message : во время компиляции функции-члена класс шаблон "DirectedGraph<int>::~DirectedGraph(void)"
+D:\6\C++\Task3\Task3\Task3.cpp(387): message : выполняется компиляция ссылки на экземпляр шаблон функции "DirectedGraph<int>::~DirectedGraph(void)"
+D:\6\C++\Task3\Task3\Vertex.h(109,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Vertex.h(105): message : во время компиляции функции-члена класс шаблон "void Vertex<T2 *>::removeIn(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(187): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vertex<T2 *>::removeIn(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\Vertex.h(136,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Vertex.h(135): message : во время компиляции функции-члена класс шаблон "int Vertex<T2 *>::findInVertex(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\Vertex.h(77): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Vertex<T2 *>::findInVertex(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(62): message : во время компиляции функции-члена класс шаблон "Vertex<T2 *> *DirectedGraph<T2>::getVertex(T2 *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(127): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vertex<T2 *> *DirectedGraph<T2>::getVertex(T2 *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\DirectedGraph.h(36): message : во время компиляции функции-члена класс шаблон "DirectedGraph<int>::DirectedGraph(void)"
+D:\6\C++\Task3\Task3\Task3.cpp(400): message : выполняется компиляция ссылки на экземпляр шаблон функции "DirectedGraph<int>::DirectedGraph(void)"
+D:\6\C++\Task3\Task3\Vertex.h(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6\C++\Task3\Task3\Vertex.h(146): message : во время компиляции функции-члена класс шаблон "int Vertex<T2 *>::findOutVertex(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+D:\6\C++\Task3\Task3\Vertex.h(66): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Vertex<T2 *>::findOutVertex(Vertex<T2 *> *)"
+          with
+          [
+              T2=int
+          ]
+  Создание кода...
+  Task3.vcxproj -> D:\6\C++\Task3\Debug\Task3.exe
